@@ -1,0 +1,16 @@
+{
+	"name": "adf-de-441",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f31fa7be-d5de-4ff6-be89-3c50bd1039a9",
+		"tenantId": "ff260a03-cc4c-424f-9efe-3ce8fee0fd66"
+	}
+}
